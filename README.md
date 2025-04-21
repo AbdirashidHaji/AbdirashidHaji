@@ -35,8 +35,8 @@ With **54+ repositories** on GitHub, I’m constantly crafting solutions, explor
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdirashidHaji&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdirashidHaji&layout=compact&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdirashidHaji&show_icons=true&theme=tokyonight" width="67%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdirashidHaji&layout=compact&theme=tokyonight" width="67%" />
 </p>
 
 ---
