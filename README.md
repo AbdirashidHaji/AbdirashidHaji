@@ -4,38 +4,19 @@ I'm a **Full-Stack Developer** from 🇰🇪 Kenya — passionate about building
 
 ---
 
-### 🚀 Tech Stack & Skills
 
-#### 💻 Languages & Frameworks
-| Tech | Badge | Skill |
-|------|-------|-------|
-| JavaScript | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) | B+ |
-| React.js | ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=000) | B+ |
-| HTML5 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff) | A- |
-| CSS3 | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff) | B |
-| Tailwind CSS | ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff) | B |
-| Node.js | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff) | B |
-| Express.js | ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=fff) | B |
-| Kotlin | ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=fff) | B- |
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbdirashidHaji&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbdirashidHaji&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdirashidHaji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### 🛢️ Databases & Tools
-| Tool | Badge | Skill |
-|------|-------|-------|
-| MongoDB | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff) | B |
-| Firebase | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000) | B |
-| Git | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff) | B |
-| GitHub | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff) | B |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AbdirashidHaji&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdirashidHaji&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdirashidHaji&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
----
+[![](https://visitcount.itsvg.in/api?id=AbdirashidHaji&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🌍 Let's Connect
 
